@@ -1,0 +1,13 @@
+{
+  "prefix":"/",
+  "owner":["649404867655368705"],
+  "nodes":[
+    {
+      "name":"p5",
+      "host":"lavalink2.botsuniversity.ml",
+      "port": 443,
+      "password": "mathiscool",
+      "secure": true
+    }
+  ]
+}
